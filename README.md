@@ -1,5 +1,5 @@
 # 비제@mysunshinedying
-## 풀스택 개발자 Fullstack-Developer
+### 풀스택 개발자 Fullstack-Developer
 [![개발 블로그](https://img.shields.io/badge/Tech%20Blog-%23f54?style=flat-square&logo=tistory&labelColor=%23f54&color=%23f54&link=https%3A%2F%2Fbbbbabbbababababa.tistory.com)](https://bbbbabbbababababa.tistory.com/)
 ![Static Badge](https://img.shields.io/badge/bizecommission%40gmail.com-0?style=flat-square&logo=gmail&logoColor=%23fff&labelColor=%23EA4335&color=%23EA4335&link=https%3A%2F%2Fwww.postype.com%2F%40bize-commission)
 
