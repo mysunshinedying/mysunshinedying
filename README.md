@@ -1,14 +1,19 @@
 # 비제@mysunshinedying
 ### 풀스택 개발자 Fullstack-Developer
+<img width="922" height="146" alt="티스토리 통계(2026년 6월)" src="https://github.com/user-attachments/assets/2f7ea8bf-45a4-4c39-b60a-0718f488985b" />
+<img width="920" height="250" alt="포스타입 통계(2026년 6월)" src="https://github.com/user-attachments/assets/c084da24-36e7-440c-adcd-286481e0ac45" />
+
+
 [![개발 블로그](https://img.shields.io/badge/Tech%20Blog-%23f54?style=flat-square&logo=tistory&labelColor=%23f54&color=%23f54&link=https%3A%2F%2Fbbbbabbbababababa.tistory.com)](https://bbbbabbbababababa.tistory.com/)
 ![Static Badge](https://img.shields.io/badge/bizecommission%40gmail.com-0?style=flat-square&logo=gmail&logoColor=%23fff&labelColor=%23EA4335&color=%23EA4335&link=https%3A%2F%2Fwww.postype.com%2F%40bize-commission)
 
 #### 오타쿠 개발 기록
+
 [![오타쿠 티스토리](https://img.shields.io/badge/Tistory-%23f54?style=flat-square&logo=tistory&labelColor=%23f54&color=%23f54&link=https%3A%2F%2Fmysunshnedying.tistory.com)](https://mysunshinedying.tistory.com/)
 [![Static Badge](https://img.shields.io/badge/postype-%23f54?style=flat-square&logo=pixiv&logoColor=%23fff&labelColor=%23000&color=%23000&link=https%3A%2F%2Fwww.postype.com%2F%40bize-commission)](https://www.postype.com/@bize-commission)
 
 
-오타쿠. 재미없는 건 안 만듭니다.
+오타쿠 개발자. 재미없는 건 안 만듭니다.
 
 
 ### Skills
