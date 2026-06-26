@@ -1,9 +1,37 @@
 # 비제@mysunshinedying
 ## 풀스택 개발자 Fullstack-Developer
-흥미로운걸 만듭니다
+[![개발 블로그](https://img.shields.io/badge/Tech%20Blog-%23f54?style=flat-square&logo=tistory&labelColor=%23f54&color=%23f54&link=https%3A%2F%2Fbbbbabbbababababa.tistory.com)](https://bbbbabbbababababa.tistory.com/)
+![Static Badge](https://img.shields.io/badge/bizecommission%40gmail.com-0?style=flat-square&logo=gmail&logoColor=%23fff&labelColor=%23EA4335&color=%23EA4335&link=https%3A%2F%2Fwww.postype.com%2F%40bize-commission)
 
-#### 개인 포트폴리오
+#### 오타쿠 개발 기록
+[![오타쿠 티스토리](https://img.shields.io/badge/Tistory-%23f54?style=flat-square&logo=tistory&labelColor=%23f54&color=%23f54&link=https%3A%2F%2Fmysunshnedying.tistory.com)](https://mysunshinedying.tistory.com/)
+[![Static Badge](https://img.shields.io/badge/postype-%23f54?style=flat-square&logo=pixiv&logoColor=%23fff&labelColor=%23000&color=%23000&link=https%3A%2F%2Fwww.postype.com%2F%40bize-commission)](https://www.postype.com/@bize-commission)
 
 
-#### 오타쿠 개발
-![https://mysunshnedying.tistory.com](https://img.shields.io/badge/Tistory-%23f54?style=flat-square&logo=tistory&labelColor=%23f54&color=%23f54&link=https%3A%2F%2Fmysunshnedying.tistory.com)
+오타쿠. 재미없는 건 안 만듭니다.
+
+
+### Skills
+#### FRONT END
+![Static Badge](https://img.shields.io/badge/React-0?style=flat-square&logo=react&logoColor=%23000&labelColor=%2361DAFB&color=%2361DAFB)
+![Static Badge](https://img.shields.io/badge/JavaScript-0?style=flat-square&logo=javascript&logoColor=%23000&labelColor=%23F7DF1E&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&logoColor=%23fff&labelColor=%233178C6&color=%233178C6)
+![Static Badge](https://img.shields.io/badge/TailwindCss-0?style=flat-square&logo=tailwindcss&logoColor=%23fff&labelColor=%2306B6D4&color=%2306B6D4)
+![Static Badge](https://img.shields.io/badge/Sass-0?style=flat-square&logo=sass&logoColor=%23fff&labelColor=%23CC6699&color=%23CC6699)
+![Static Badge](https://img.shields.io/badge/jQuery-0?style=flat-square&logo=jquery&logoColor=%23fff&labelColor=%230769AD&color=%230769AD)
+![Static Badge](https://img.shields.io/badge/ReactQuery-0?style=flat-square&logo=reactquery&logoColor=%23fff&labelColor=%23FF4154&color=%23FF4154)
+![Static Badge](https://img.shields.io/badge/Axios-0?style=flat-square&logo=axios&logoColor=%23fff&labelColor=%235A29E4&color=%235A29E4)
+
+
+#### BACK END
+![Static Badge](https://img.shields.io/badge/Spring%20Boot-0?style=flat-square&logo=springboot&logoColor=%23fff&labelColor=%236DB33F&color=%236DB33F)
+![Static Badge](https://img.shields.io/badge/JAVA-0?style=flat-square&logo=openjdk&logoColor=%23fff&labelColor=%23000000&color=%23000000)
+![Static Badge](https://img.shields.io/badge/PHP-0?style=flat-square&logo=php&logoColor=%23fff&labelColor=%23777BB4&color=%23777BB4)
+
+#### DATA & INFRA
+![Static Badge](https://img.shields.io/badge/MySQL-0?style=flat-square&logo=mysql&logoColor=%23fff&labelColor=%234479A1&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/Docker-0?style=flat-square&logo=docker&logoColor=%23fff&labelColor=%232496ED&color=%232496ED)
+![Static Badge](https://img.shields.io/badge/Redis-0?style=flat-square&logo=redis&logoColor=%23fff&labelColor=%23FF4438&color=%23FF4438)
+![Static Badge](https://img.shields.io/badge/AWS-%23171d26?style=flat-square&color=%23171d26)
+
+
