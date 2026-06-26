@@ -33,5 +33,7 @@
 ![Static Badge](https://img.shields.io/badge/Docker-0?style=flat-square&logo=docker&logoColor=%23fff&labelColor=%232496ED&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/Redis-0?style=flat-square&logo=redis&logoColor=%23fff&labelColor=%23FF4438&color=%23FF4438)
 ![Static Badge](https://img.shields.io/badge/AWS-%23171d26?style=flat-square&color=%23171d26)
+![Static Badge](https://img.shields.io/badge/firebase-%23171d26?style=flat-square&logo=firebase&color=%23DD2C00)
+
 
 
