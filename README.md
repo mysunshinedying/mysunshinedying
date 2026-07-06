@@ -1,4 +1,4 @@
-# 비제@mysunshinedying
+## 비제@mysunshinedying
 <img width="922" height="146" alt="티스토리 통계(2026년 6월)" src="https://github.com/user-attachments/assets/2f7ea8bf-45a4-4c39-b60a-0718f488985b" />
 <img width="920" height="250" alt="포스타입 통계(2026년 6월)" src="https://github.com/user-attachments/assets/c084da24-36e7-440c-adcd-286481e0ac45" />
 
