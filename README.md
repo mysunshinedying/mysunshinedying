@@ -44,4 +44,11 @@
 ![Static Badge](https://img.shields.io/badge/firebase-%23171d26?style=flat-square&logo=firebase&color=%23DD2C00)
 
 
-### Project
+### Personal Projects
+- [Simple Todo List](https://github.com/mysunshinedying/Simple-Todo-List) localStorage 기반 jQuery를 이용한 간단한 투두 리스트입니다.
+- [Gnuboard Post Hub](https://github.com/mysunshinedying/gnuboard-post-hub) 그누보드5 기반 멀티 사이트 새글 알림 허브입니다(사용 언어 `PHP`)
+
+
+### Team Projects
+- [E.GO](https://github.com/EZ-FillStack) 무료 체험 프로그램 신청 서비스 E.GO입니다. React 기반 프론트엔드를 담당했습니다.
+- [D-TO](https://github.com/hotdog-team) 현대이지웰 최종 프로젝트 메타태그-행동로그 기반 개인화 추천 쇼핑몰 D-TO입니다. 행동로그 설계 및 엔지니어링, 전체 시스템 흐름을 담당했습니다.
