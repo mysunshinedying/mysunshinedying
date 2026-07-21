@@ -12,7 +12,7 @@
 [![Static Badge](https://img.shields.io/badge/postype-%23f54?style=flat-square&logo=pixiv&logoColor=%23fff&labelColor=%23000&color=%23000&link=https%3A%2F%2Fwww.postype.com%2F%40bize-commission)](https://www.postype.com/@bize-commission)
 
 
-오타쿠 개발자. 재미없는 건 안 만듭니다.
+> 오타쿠 개발자. 재미없는 건 안 만듭니다. 레거시(PHP, jQuery)에서 새 기술로 옮기는 중.
 
 
 ### Achievement
