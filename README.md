@@ -46,7 +46,7 @@
 
 ### Personal Projects
 - [Gnuboard Post Hub](https://github.com/mysunshinedying/gnuboard-post-hub) 그누보드5 기반 멀티 사이트 새글 알림 허브입니다(사용 언어 `PHP`)
-- - [Simple Todo List](https://github.com/mysunshinedying/Simple-Todo-List) localStorage 기반 jQuery를 이용한 간단한 투두 리스트입니다.
+- [Simple Todo List](https://github.com/mysunshinedying/Simple-Todo-List) localStorage 기반 jQuery를 이용한 간단한 투두 리스트입니다.
 
 
 ### Team Projects
